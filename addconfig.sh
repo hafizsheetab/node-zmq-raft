@@ -1,0 +1,1 @@
+DEBUG=* bin/zr-config.js -c config/example.hjson -a tcp://127.0.0.1:8347/4

@@ -37,6 +37,7 @@
     "hjson": "^3.2.2",
     "js-yaml": "^3.14.1",
     "mkdirp": "^1.0.4",
+    "mongoose": "^7.2.0",
     "msgpack-lite": "^0.1.26",
     "toml": "^3.0.0",
     "zeromq": "~5.2.8"
